@@ -21,7 +21,7 @@ The first thing you need in order to run your application is to load the necessa
             ...
             
             
-            <!-- faramework and its dependencies -->
+            <!-- framework and its dependencies -->
             <script src="http://yourdomain.com/scripts/underscore.js"></script>
             <script src="http://yourdomain.com/scripts/backbone.js"></script>
             <script src="http://yourdomain.com/scripts/monaco.js"></script>
